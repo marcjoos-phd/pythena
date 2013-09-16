@@ -1,0 +1,10 @@
+This is PyTHENA, a Python interface to read'n'plot J. Simon & J. Hawley's Athena3D (http://www.astro.virginia.edu/VITA/athena.php) outputs.
+
+INSTALL
+-------
+Add the path of PyTHENA directory in your $PYTHONPATH. That's all.
+
+LICENSE
+-------
+This software is under the GNU/GPL license; see http://www.gnu.org/licenses/gpl.html for more informations.
+
